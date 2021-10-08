@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Raphael
-- 👀 I’m interested in sharing my code.
 - 🌱 I’m currently working as IT security consultant.
 - 💞️ I’m looking to collaborate on scripting on network/security equipments and tools.
 
