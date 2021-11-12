@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raphael
 - 🌱 I’m currently working as IT security consultant.
-- 💞️ I’m looking to collaborate on scripting on network/security equipments and tools.
+- 💞️ I usually script for network/security equipments and tools.
 
 
 <!---
